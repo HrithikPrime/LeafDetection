@@ -4,10 +4,6 @@
 
 This repository consists of files required for end to end implementation and deployment of Deep Learning Leaf Disease Detection web application deployed with flask.
 
-## Table of Contents
-  * [About the App](#about-the-app)
-  * [Technologies Used](#technologies-used)
-  * [Bug / Feature Request](#bug---feature-request)
 
 
 ## About the App
