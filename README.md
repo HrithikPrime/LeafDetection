@@ -30,9 +30,3 @@ pip install -r requirements.txt
 
  [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
-## Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/divyansh1195/Tomato-Leaf-Disease-Detection-/issues) here by including your search query and the expected result
-
-
-## Please do ⭐ the repository, if it helped you in anyway.
